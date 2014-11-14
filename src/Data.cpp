@@ -81,13 +81,6 @@ void Helicopter::drawGround()
     }
     glPopMatrix();
 
-    // draw some grass
-    glPushMatrix();
-    glTranslatef(0.0, ground + 1.0, -10.0);
-    glScalef(2.0, 0.001, 2.0);
-    glColor3f(0.0, 1.0, 0.0);
-    drawCube();
-    glPopMatrix();
 }
 
 void Helicopter::drawWings()
@@ -204,7 +197,7 @@ void Helicopter::drawHelicopter()
     glPopMatrix();
 
     glRotatef(sr, 0.0, 1.0, 0.0);    // rotate the helicopter
-    glTranslatef(0, syt,szt);        // translate the helicopter
+    glTranslatef(sxt, syt,szt);        // translate the helicopter
     drawBody();
     drawWings();
 
