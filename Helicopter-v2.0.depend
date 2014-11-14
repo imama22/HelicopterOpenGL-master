@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1415628740 source:e:\computer graphics\lab\helicopter-v2.0\main.cpp
+	"Helicopter.h"
+
+1415642582 e:\computer graphics\lab\helicopter-v2.0\include\helicopter.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1415642291 source:e:\computer graphics\lab\helicopter-v2.0\src\helicopter.cpp
+	"Helicopter.h"
+
+1415642242 source:e:\computer graphics\lab\helicopter-v2.0\src\data.cpp
+	"Helicopter.h"
+
+1415628740 source:e:\computer-graphics\lab\helicopter-v2.0\main.cpp
+	"Helicopter.h"
+
+1415642582 e:\computer-graphics\lab\helicopter-v2.0\include\helicopter.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1415836523 source:e:\computer-graphics\lab\helicopter-v2.0\src\data.cpp
+	"Helicopter.h"
+
+1415836795 source:e:\computer-graphics\lab\helicopter-v2.0\src\helicopter.cpp
+	"Helicopter.h"
+
+1415806428 source:c:\users\stud\downloads\helicopteropengl-master\main.cpp
+	"Helicopter.h"
+
+1415950907 c:\users\stud\downloads\helicopteropengl-master\include\helicopter.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1415951819 source:c:\users\stud\downloads\helicopteropengl-master\src\data.cpp
+	"Helicopter.h"
+
+1415951003 source:c:\users\stud\downloads\helicopteropengl-master\src\helicopter.cpp
+	"Helicopter.h"
+
